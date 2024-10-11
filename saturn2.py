@@ -1,0 +1,3 @@
+Web Reports is a high-level web application that complements and extends the power of BigFix. It connects to one or more BigFix databases to aggregate and analyze your entire network. It allows you to visualize your data, with both charts and data listings, in any standard web browser. Web Reports provides you with a convenient, compact, and timely overview of your BigFix network, no matter how broadly it extends.
+
+Web Reports is prepackaged with dozens of critical reports ready to take the pulse of all your networked computers, including real-time visualization of patch rollouts, remediations, policy compliance, and much more. In addition, you can easily customize your own reports using faceted navigation to reduce your data to its essentials for fast, targeted access.
